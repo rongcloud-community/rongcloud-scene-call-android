@@ -33,7 +33,7 @@ public class RCApplication extends Application {
         );
 
         // init rong
-        // ModuleManager.manager().register();
+        ModuleManager.manager().register();
     }
 
     @Override
